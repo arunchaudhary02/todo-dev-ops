@@ -1,4 +1,4 @@
-package com.durable;
+package com.durable.entities;
 
 public record CompanyRow(
         int companyId,

@@ -124,6 +124,6 @@ public class Main {
         Application application = new Application();
         Javalin app = application.create(config);
 
-        app.start(8081);
+        app.start(8082);
     }
 }
